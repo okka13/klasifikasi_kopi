@@ -21,4 +21,5 @@ if st.button("Prediksi", type="primary"):
 
 st.divider()
 
-st.caption("Dibuat dengan :coffee: oleh lionel okka dan janung purnomo")
+st.caption("Dibuat dengan :coffee: oleh lionel okka")
+
